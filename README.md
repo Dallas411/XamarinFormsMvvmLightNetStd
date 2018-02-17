@@ -3,7 +3,7 @@ Simple example using MVVMLight framework in a Xamarin.Forms DotNetStandard appli
 
 This example shows hot to use MVVMLight to:
 
-Setup the Inversion of Control (IoC) Container
-Bind the ViewModel to the View
-Implement a Command
-Calling code behind from your ViewModel
+1) Setup the Inversion of Control (IoC) Container.
+2) Bind the ViewModel to the View.
+3) Implement a Command.
+4) Calling code behind from your ViewModel.
